@@ -1,1 +1,2 @@
 hello frontend 3 -- changing same line from different branch!
+conflict-test: testing from feat/my-branch branch
